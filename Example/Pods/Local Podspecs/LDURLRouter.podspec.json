@@ -1,0 +1,22 @@
+{
+  "name": "LDURLRouter",
+  "version": "1.0.0",
+  "summary": "A route jump that supports swift language and can pass parameters and method callbacks",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/a632561869-cloud/LDURLRouter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "a632561869-cloud": "lidongmaidi@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/a632561869-cloud/LDURLRouter.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "LDURLRouter/Classes/**/*"
+}

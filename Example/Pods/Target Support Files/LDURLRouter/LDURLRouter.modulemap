@@ -1,0 +1,6 @@
+framework module LDURLRouter {
+  umbrella header "LDURLRouter-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_LDURLRouter_Example {
+  umbrella header "Pods-LDURLRouter_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
